@@ -23,3 +23,6 @@
 ---
 
 ## d) Sample Output
+a + (b - c) * (d -> Not Balanced
+m + [a - b * (c + d * {m)] -> Not Balanced
+a + (b - c) -> Balanced
