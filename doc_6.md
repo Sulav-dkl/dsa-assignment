@@ -4,7 +4,7 @@
 
 ---
 
- ## b) Objectives and Roles
+ ## b) Functions and Purpose
 
 1. `heapify(int arr[], int n, int i, int isMin)` → Preserves heap property (max or min).
 
