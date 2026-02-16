@@ -26,3 +26,6 @@
 ---
 
 ## d) Sample Output
+Enter infix: 2+34
+Postfix: 234+
+Result: 14
